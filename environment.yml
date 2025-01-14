@@ -1,0 +1,10 @@
+name: math60082
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy
+  - scipy
+  - matplotlib
+  - notebook
+  - nbgitpuller
