@@ -1,3 +1,3 @@
 # MATH60082-environment
-A repository that specifies the environment for JupyterHub, but does nothing more. It's part of a strategy to separate the content from the environment in order to lead to quicker launches. See the forum posts
+This repository specifies the environment (which python packages are available, for example) for the Jupyter notebooks associated with MATH4/60082: Computational, but does nothing more. It's part of a strategy to get quicker launches on Binder by separating the environment set-up from the notebooks themselves: see the forum posts
 [How to reduce mybinder.org repository startup time](https://discourse.jupyter.org/t/how-to-reduce-mybinder-org-repository-startup-time/4956) and [Tip: speed up Binder launches by pulling github content in a Binder link with nbgitpuller](https://discourse.jupyter.org/t/tip-speed-up-binder-launches-by-pulling-github-content-in-a-binder-link-with-nbgitpuller/922) for details.
